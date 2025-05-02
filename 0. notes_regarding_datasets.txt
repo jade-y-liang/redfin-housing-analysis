@@ -1,0 +1,10 @@
+Notes regarding collected datasets:
+
+* No houses for sale at the following zip codes on redfin.com
+	- 90010, 90050, 90051, 90052, 90055, 90071, 90072, 90073, 90076, 90078, 90079, 90081, 90082, 90086, 90089, 90091, 90095, 90134
+
+* dataset for the following zip codes seems to include houses from other zip codes (292 homes in total in this dataset)}
+	- 90030, 90053, 90054, 90060, 90070, 90074, 90075, 90080, 90084, 90087, 90088, 90096, 90096, 90099, 90101, 90102, 90103, 90189
+* note that 90069, 90085, 90090 is not an LA zip code
+
+* datasets are collected on Nov. 10, 2024.
